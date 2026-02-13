@@ -78,5 +78,5 @@ This project answers key business questions such as:
 ---
 
 ## 👤 Author
-**kndreddi prasad**  
-Email: [kandreddiprasad@gmail.com](mailto:kandreddiprasad@gmail.com)
+**karthiksangishetti**  
+Email: [karthiksangishetti29@gmail.com](mailto:karthiksangishetti29@gmail.com)
